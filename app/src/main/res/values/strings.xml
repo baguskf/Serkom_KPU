@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KPU APP</string>
+    <string name="info">Informasi Pemilihan Umum</string>
+    <string name="form">Form Entri Data Pemilih</string>
+    <string name="tampil">Data Pemilih</string>
+    <string name="data">Lihat Data</string>
+    <string name="logout">Keluar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="nama">Nama</string>
+    <string name="nik">NIK</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+
+
+</resources>
